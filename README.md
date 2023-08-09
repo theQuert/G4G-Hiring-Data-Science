@@ -1,10 +1,11 @@
 # G4G-Hiring-Data-Science
 ## Docs
-- Solutions for given problems are listed as ``./gfg_proj_1.ipynb`` and ``./gfg_proj_2.ipynb``
+**Solutions for given problems are listed as ``./gfg_proj_1.ipynb`` and ``./gfg_proj_2.ipynb``**
 
 ## Given Assignments
 ### Problem 1
 #### Project Name: Swiggy Restaurants Data Analysis
+- Link for [Dataset]("https://drive.google.com/file/d/1MCnCNHJXxc97EYwIdBszOkEBusu9FpCa/view?usp=sharing")
 
 **Problem Statement**
 How many cities (including subregions) where Swiggy is having its restaurants listed?
@@ -23,7 +24,8 @@ How many cities (including subregions) where Swiggy is having its restaurants li
 
 ### Problem 2
 #### Project Name: Geeksforgeeks Data analysis
-**Scrape the Geeksforgeeks youtube channel videos of the past 6 months' dataset**
+**Scrape the [Geeksforgeeks youtube channel](https://www.youtube.com/@GeeksforGeeksVideos/videos) videos of the past 6 months' dataset**
+
 
 Tasks & Questions:
 1. Number of videos in the past 6 months from the start date. Must mention the dates in the solution.
